@@ -3,4 +3,7 @@
 
 console.log("main connected");
 
+var name = "Ryan";
+var job = 'Instructor';
+
 },{}]},{},[1]);
