@@ -6,4 +6,7 @@ console.log("main connected");
 var name = "Ryan";
 var job = 'Instructor';
 
+var sentence = name + " works at HackerYou as an " + job;
+console.log(sentence);
+
 },{}]},{},[1]);
